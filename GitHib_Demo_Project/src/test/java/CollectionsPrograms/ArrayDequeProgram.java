@@ -4,6 +4,10 @@ public class ArrayDequeProgram
 {	//Modification 1 from Github: Shiny
 	
 	//Modification 2: From Eclipse : Shiny
+	
+	
+	// I am working on prodcut module
+	
 	public static void main(String[] args) 
 	{
 		ArrayDeque<Integer> dq = new ArrayDeque<Integer>();
