@@ -1,7 +1,9 @@
 package CollectionsPrograms;
 import java.util.*;
 public class ArrayDequeProgram 
-{	//Modification 1: Shiny
+{	//Modification 1 from Github: Shiny
+	
+	//Modification 2: From Eclipse : Shiny
 	public static void main(String[] args) 
 	{
 		ArrayDeque<Integer> dq = new ArrayDeque<Integer>();
